@@ -39,3 +39,10 @@ sysinfo.txt
 # Crashlytics generated file
 Assets/StreamingAssets/crashlytics-build.properties
 
+# Gource setting files
+[Gg]ource/
+
+# Archive file
+*.rar
+*.zip
+*.7z
